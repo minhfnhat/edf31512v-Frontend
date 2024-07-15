@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road.",
+        "title": "Drive Your Passion"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Passion",
+  "subtitle": "Experience unmatched performance and style with Pot Cars, where innovation meets the road."
+}
